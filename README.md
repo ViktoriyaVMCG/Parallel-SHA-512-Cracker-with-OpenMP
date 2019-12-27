@@ -1,0 +1,1 @@
+# Parallel-SHA-512-Cracker-with-OpenMP
